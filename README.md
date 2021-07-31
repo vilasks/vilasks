@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vilasks
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine learniong
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m currently not looking to collaborate.
 - 📫 How to reach me vilaskathera@gmail.com
 
