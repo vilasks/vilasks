@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vilasks
-- 👀 I’m interested in Developing Full Stack Applications and Learning Machine Learning
+- 👀 I’m interested in Developing Full Stack Applications and Machine Learning
 - 🌱I’m currently pursuing My Bachelor's in Computer Science 
 - 📫 Reach me @ vilaskathera@gmail.com
 
